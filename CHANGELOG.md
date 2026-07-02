@@ -1,5 +1,10 @@
 # Changelog
 
+## [v0.75.9](https://github.com/carlosgandarez-lavvo/octocov/commits/v0.75.9) - 2026-07-02
+
+### Other Changes
+- Release for v0.75.9 by @carlosgandarez-lavvo in https://github.com/carlosgandarez-lavvo/octocov/pull/2
+
 ## [v0.75.9](https://github.com/carlosgandarez-lavvo/octocov/compare/v0.75.8...v0.75.9) - 2026-07-02
 ### Other Changes
 - bump to v0.75.9 by @carlosgandarez-lavvo
